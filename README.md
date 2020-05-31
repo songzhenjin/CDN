@@ -1,0 +1,2 @@
+# CDN
+hexo-jsdelivr-cdn
